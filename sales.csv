@@ -1,0 +1,11 @@
+Date,Product,Region,Quantity,Amount
+2026-01-01,Laptop,North,2,100000
+2026-01-02,Mobile,South,5,75000
+2026-01-03,Tablet,East,3,45000
+2026-01-04,Laptop,West,1,50000
+2026-01-05,Mobile,North,4,60000
+2026-01-06,Headphones,South,10,20000
+2026-01-07,Tablet,West,2,30000
+2026-01-08,Laptop,East,3,150000
+2026-01-09,Mobile,West,6,90000
+2026-01-10,Headphones,North,8,16000
