@@ -46,3 +46,4 @@ Project files
 - sales_data_analyzer.py — main Python program
 - sales.csv — sample input data
 - SUMMARY.md — short project summary
+# Sales-Data-Analyzer
